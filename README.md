@@ -20,7 +20,7 @@ Order of images appearing are:
 Splash Screen -> Registration/Login page if user not already loggedIn -> Login Screen -> HomePage -> Itemlist Page -> Item Description Page 
 Cart Page -> Select or Add Address Page -> Payment Mode Page -> Order Placed Page -> Profile Page
 
-![ezgif com-gif-to-mp4-2](https://user-images.githubusercontent.com/36126610/115074580-85a24300-9f17-11eb-852a-a7abffb4d3d4.gif)
+
 
 # Demo of App
 
